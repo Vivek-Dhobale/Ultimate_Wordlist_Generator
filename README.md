@@ -10,12 +10,13 @@ Perfect for ethical hacking, penetration testing, CTFs, or security research.
 ---
 
 ## 📂 Project Structure
+```bash
 vivekxploit-wordgen/
 │── wordGen.py # Main script (Wordlist Generator)
 │── README.md # Documentation
 │── requirements.txt # Python dependencies
 │── LICENSE # Open-source license (MIT)
-
+```
 
 ---
 
@@ -51,11 +52,12 @@ python3 wordGen.py
 You will see the menu:
 
 ## 🔍 Modes
-[1] Smart Wordlist (personal info → mutations)
-[2] Brute-force Wordlist (charset + length)
-[3] Hybrid (Smart + Controlled Brute)
-[4] Random Strong Passwords
-[0] Exit
+
+    [1] Smart Wordlist (personal info → mutations)
+    [2] Brute-force Wordlist (charset + length)
+    [3] Hybrid (Smart + Controlled Brute)
+    [4] Random Strong Passwords
+    [0] Exit
 ---
 
 ## 📊 Example Run
