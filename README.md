@@ -75,7 +75,8 @@ You will see the menu:
 ---
 
 ## ⚠️ Disclaimer
-This tool is created for educational and ethical hacking purposes only.
+
+> This tool is created for educational and ethical hacking purposes only.
 The author (VivekXploit) is not responsible for any misuse.
 Use it only in legal environments such as your own systems, labs, or with explicit permission.
 ---
